@@ -2,6 +2,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import praktikum.Ingredient;
 import praktikum.IngredientType;
+
 public class IngredientTest {
     @Test
     public void getPriceTest(){

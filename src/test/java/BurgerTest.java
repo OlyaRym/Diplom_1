@@ -28,7 +28,6 @@ public class BurgerTest {
         int actual = burger.ingredients.size();
         int expected = 1;
         assertEquals(actual,expected);
-
     }
     @Test
     public void removeIngredientTest(){  //удалить ингридиент
